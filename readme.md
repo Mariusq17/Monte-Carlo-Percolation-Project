@@ -60,7 +60,11 @@ cd nume-repo
 # Instalează dependențele
 pip install numpy matplotlib
 ```
-RulareBashpython main.py
+
+Rulare 
+```Bash
+python main.py
+```
 Scriptul va rula simularea (poate dura câteva minute datorită numărului mare de iterații pentru precizie) și va genera automat graficele.
 
 📊 Rezultate
@@ -71,4 +75,5 @@ Vizualizare Grilă
 Notă: Imaginile sunt generate automat la rularea scriptului.
 
 📝 Concluzii
+
 Simularea a confirmat că tranziția de fază are loc brusc în jurul valorii $0.59$. Sub acest prag, probabilitatea de percolație este nulă, iar deasupra lui tinde rapid către 1, validând comportamentul teoretic al sistemelor critice.
