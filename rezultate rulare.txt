@@ -1,0 +1,13 @@
+[Running] python -u "c:\Users\piepu\Desktop\proiect statistica\main.py"
+--- START SIMULARE ---
+Dimensiune: 50x50
+Simulari necesare (Hoeffding): 18445
+Rulare pentru 50 puncte p...
+Progres: p=0.00 -> Theta=0.000
+Progres: p=0.51 -> Theta=0.003
+Progres: p=0.56 -> Theta=0.109
+Progres: p=0.61 -> Theta=0.701
+Progres: p=0.66 -> Theta=0.993
+Finalizat in 1229.55 secunde.
+
+[Done] exited with code=0 in 7150.912 seconds
